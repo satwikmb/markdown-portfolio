@@ -1,2 +1,2 @@
-[] places
-[] sports
+- places
+- sports
